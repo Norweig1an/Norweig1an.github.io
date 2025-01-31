@@ -17,4 +17,15 @@ nav_order: 2
 
 {% bibliography %}
 
+
+</div>
+
+<!-- <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+    <div style="transform: scale(0.2); transform-origin: top left; width: 400px; height: 300px; overflow: hidden; margin: 0 auto;">
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=d4WrrHWsSWJ5wUW9IamjX1dIFtUZG6EWka6ffgv4dVw"></script>
+    </div>
+</div> -->
+
+<div style="width:250px; height:60px; position:relative; margin: 0 auto;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=d4WrrHWsSWJ5wUW9IamjX1dIFtUZG6EWka6ffgv4dVw"></script>
 </div>
