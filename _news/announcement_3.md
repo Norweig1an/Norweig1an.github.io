@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper "DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-Level Control" has been accepted by ECCV 2024.
