@@ -380,10 +380,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-paper-disco-embodied-navigation-and-interaction-via-differentiable-scene-semantics-and-dual-level-control-has-been-accepted-by-eccv-2024",
+          title: 'Our paper “DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-Level...',
           description: "",
-          section: "News",},{id: "news-our-paper-human-agent-joint-learning-for-efficient-robot-manipulation-skill-acquisition-has-been-posted-on-arxiv",
+          section: "News",},{id: "news-our-paper-human-agent-joint-learning-for-efficient-robot-manipulation-skill-acquisition-has-been-accepted-by-icra-2025",
           title: 'Our paper “Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition” has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
