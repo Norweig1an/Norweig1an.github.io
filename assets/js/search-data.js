@@ -375,16 +375,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-disco-embodied-navigation-and-interaction-via-differentiable-scene-semantics-and-dual-level-control-has-been-accepted-by-eccv-2024",
+    },{id: "news-our-paper-disco-embodied-navigation-and-interaction-via-differentiable-scene-semantics-and-dual-level-control-has-been-accepted-by-eccv-2024",
           title: 'Our paper “DISCO: Embodied Navigation and Interaction via Differentiable Scene Semantics and Dual-Level...',
           description: "",
           section: "News",},{id: "news-our-paper-human-agent-joint-learning-for-efficient-robot-manipulation-skill-acquisition-has-been-accepted-by-icra-2025",
-          title: 'Our paper “Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition” has been...',
+          title: 'Our paper “Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition”() has been...',
+          description: "",
+          section: "News",},{id: "news-excited-to-be-working-with-a-cutting-edge-startup-pushing-boundaries-in-tactile-simulation",
+          title: 'Excited to be working with a cutting-edge startup pushing boundaries in tactile simulation!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
