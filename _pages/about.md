@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -27,6 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a research assistant in the Computer Sciences Department at the Shanghai Jiao Tong University. I am advised by **Dr. Yong-lu Li**, and am a member of the MVIG-RHOS Group. I completed my B.Sc. at ShanghaiTech University and M.Sc. at University of Aizu, where I was advised by **Dr. Yong Liu**. My academic interests are embodied intelligence and robotics.
+I'm a Ph.D. candidate at ShanghaiTech University's School of Information Science and Technology, co-advised by **Dr. Chenxi Xiao** and **Dr. Ziyuan Jiao**. 
 
- Feel free to reach out **luoshch[at]shanghaitech[dot]edu[dot]cn**. I’m happy to chat and connect!
+I hold a B.Sc. from ShanghaiTech and an M.Sc. from University of Aizu under **Dr. Yong Liu**'s supervision, and previously spent two years at SJTU's MVIG Group working with **Dr. Cewu Lu**.
+
+My research focuses on **dexterous manipulation**, **tactile sensing**, and **end-effector design**. I'm particularly interested in the intersection of robotics and AI, and always open to discussing potential collaborations or research exchanges.
+
+Feel free to contact me at luoshch@shanghaitech.edu.cn - I'd be happy to connect!
