@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Ph.D. candidate at ShanghaiTech University's School of Information Science and Technology, co-advised by **Dr. Chenxi Xiao** and **Dr. Ziyuan Jiao**. 
+I'm a Ph.D. candidate at ShanghaiTech University's School of Information Science and Technology, co-advised by **Prof. Chenxi Xiao** and **Dr. Ziyuan Jiao**. 
 
-I hold a B.Sc. from ShanghaiTech and an M.Sc. from University of Aizu under **Dr. Yong Liu**'s supervision, and previously spent two years at SJTU's MVIG Group working with **Dr. Cewu Lu**.
+I hold a B.Sc. from ShanghaiTech and an M.Sc. from University of Aizu under **Prof. Yong Liu**'s supervision, and previously spent two years at Shanghai Jiao Tong University's MVIG Group working with **Prof. Cewu Lu** and **Prof.Yonglu Li**.
 
 My research focuses on **dexterous manipulation**, **tactile sensing**, and **end-effector design**. I'm particularly interested in the intersection of robotics and AI, and always open to discussing potential collaborations or research exchanges.
 
