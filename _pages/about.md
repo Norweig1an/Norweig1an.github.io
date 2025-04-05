@@ -29,8 +29,8 @@ latest_posts:
 
 I'm a Ph.D. candidate at ShanghaiTech University's School of Information Science and Technology, co-advised by **Prof. Chenxi Xiao** and **Dr. Ziyuan Jiao**. 
 
-I hold a B.Sc. from ShanghaiTech and an M.Sc. from University of Aizu under **Prof. Yong Liu**'s supervision, and previously spent two years at Shanghai Jiao Tong University's MVIG Group working with **Prof. Cewu Lu** and **Prof.Yonglu Li**.
+I hold a B.Sc. from ShanghaiTech and a M.Sc. from University of Aizu under **Prof. Yong Liu**'s supervision, and previously spent two years at Shanghai Jiao Tong University's MVIG Group working with **Prof. Cewu Lu** and **Prof.Yonglu Li**.
 
 My research focuses on **dexterous manipulation**, **tactile sensing**, and **end-effector design**. I'm particularly interested in the intersection of robotics and AI, and always open to discussing potential collaborations or research exchanges.
 
-I welcome discussions about research and potential collaborations - feel free to reach me! 
+I welcome collaborations with undergraduate researchers and industry partners passionate about dexterous manipulation and haptic systems, particularly those interested in transforming lab research into real-world applications through prototype development or industrial problem-solving - feel free to reach me! 
