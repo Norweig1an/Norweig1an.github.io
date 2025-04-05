@@ -33,4 +33,4 @@ I hold a B.Sc. from ShanghaiTech and an M.Sc. from University of Aizu under **Pr
 
 My research focuses on **dexterous manipulation**, **tactile sensing**, and **end-effector design**. I'm particularly interested in the intersection of robotics and AI, and always open to discussing potential collaborations or research exchanges.
 
-Feel free to contact me at luoshch@shanghaitech.edu.cn - I'd be happy to connect!
+I welcome discussions about research and potential collaborations - feel free to reach me! 
