@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Shengcheng Luo | 罗盛成
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -27,6 +27,22 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Shengcheng Luo",
+  "alternateName": "罗盛成",
+  "url": "https://norweig1an.github.io",
+  "image": "/assets/img/prof_pic.jpg",
+  "jobTitle": "PhD Candidate",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "ShanghaiTech University",
+    "url": "https://www.shanghaitech.edu.cn"
+  }
+}
+</script>
 
 I'm a Ph.D. candidate at ShanghaiTech University's School of Information Science and Technology, co-advised by **Prof. Chenxi Xiao** and **Dr. Ziyuan Jiao**. 
 
