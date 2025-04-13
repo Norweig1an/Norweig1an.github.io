@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-shengcheng-luo-罗盛成",
+    title: "Shengcheng Luo | 罗盛成",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
