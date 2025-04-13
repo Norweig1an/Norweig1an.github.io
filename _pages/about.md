@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Shengcheng Luo | 罗盛成
+title: Shengcheng Luo 
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
