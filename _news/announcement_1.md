@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition"() has been accepted by ICRA 2025.
+Our paper "Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition" has been accepted by ICRA 2025.
