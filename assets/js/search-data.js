@@ -374,7 +374,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-human-agent-joint-learning-for-efficient-robot-manipulation-skill-acquisition-has-been-accepted-by-icra-2025",
           title: 'Our paper “Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition” has been...',
           description: "",
-          section: "News",},{id: "news-our-paper-human-agent-joint-learning-for-efficient-robot-manipulation-skill-acquisition-has-been-selected-as-award-finalist-by-icra-2025-thanks-to-peng-quanquan-and-lv-jun",
+          section: "News",},{id: "news-our-paper-human-agent-joint-learning-for-efficient-robot-manipulation-skill-acquisition-has-been-selected-as-best-paper-award-on-human-robot-interaction-and-best-paper-finalist-for-main-conference-by-icra-2025",
           title: 'Our paper “Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition” has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
