@@ -42,10 +42,10 @@ latest_posts:
 }
 </script>
 
-I am an incoming Ph.D. candidate at the School of Information Science and Technology, ShanghaiTech University, and the Beijing Institute for General Artificial Intelligence (BIGAI). I am fortunate to be co-supervised by **Prof. Chenxi Xiao** and **Prof. Ziyuan Jiao**.
+I am an incoming Ph.D. candidate at ShanghaiTech University SIST(School of Information Science and Technology) and the Beijing Institute for General Artificial Intelligence (BIGAI),  co-supervised by **Prof. Chenxi Xiao** and **Prof. Ziyuan Jiao**.
 
 I hold a B.Sc. from ShanghaiTech and a M.Sc. from University of Aizu under **Prof. Yong Liu**'s supervision, and previously spent two years at Shanghai Jiao Tong University's MVIG Group working with **Prof. Cewu Lu** and **Prof.Yonglu Li**.
 
-My research focuses on **dexterous manipulation**, **tactile sensing**, and **end-effector design**. I'm particularly interested in the intersection of robotics and AI, and always open to discussing potential collaborations or research exchanges.
+I'm particularly interested in the intersection of robotics and AI, my research focuses on **dexterous manipulation**, **tactile sensing**, and **end-effector design** to enable robots to interact with the physical world with human-like precision and adaptability. My contributions have been recognized with **Best Paper Finalist** and **Best Paper on Human-Robot Interaction** of ICRA(IEEE International Conference on Robotics and Automation). 
 
 I welcome collaborations with researchers and industry partners passionate about dexterous manipulation and haptic systems, particularly those interested in transforming lab research into real-world applications through prototype development or industrial problem-solving - feel free to reach me! 
