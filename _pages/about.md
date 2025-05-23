@@ -48,4 +48,4 @@ I hold a B.Sc. from ShanghaiTech and a M.Sc. from University of Aizu under **Pro
 
 My research focuses on **dexterous manipulation**, **tactile sensing**, and **end-effector design**. I'm particularly interested in the intersection of robotics and AI, and always open to discussing potential collaborations or research exchanges.
 
-I welcome collaborations with undergraduate researchers and industry partners passionate about dexterous manipulation and haptic systems, particularly those interested in transforming lab research into real-world applications through prototype development or industrial problem-solving - feel free to reach me! 
+I welcome collaborations with researchers and industry partners passionate about dexterous manipulation and haptic systems, particularly those interested in transforming lab research into real-world applications through prototype development or industrial problem-solving - feel free to reach me! 

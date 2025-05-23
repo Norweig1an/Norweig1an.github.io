@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition" has been selected as award finalist by ICRA 2025. Thanks to Peng Quanquan and Lv Jun!
+Our paper "Human-Agent Joint Learning for Efficient Robot Manipulation Skill Acquisition" has been selected as best paper award on Human-Robot Interaction and best paper finalist for main conference by ICRA 2025!
