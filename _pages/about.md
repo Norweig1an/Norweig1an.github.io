@@ -42,7 +42,7 @@ latest_posts:
 }
 </script>
 
-I am an incoming Ph.D. candidate at ShanghaiTech University SIST(School of Information Science and Technology) and the Beijing Institute for General Artificial Intelligence (BIGAI),  co-supervised by **Prof. Chenxi Xiao** and **Prof. Ziyuan Jiao**.
+I am an Ph.D. candidate at ShanghaiTech University SIST(School of Information Science and Technology) and the Beijing Institute for General Artificial Intelligence (BIGAI),  co-supervised by **Prof. Chenxi Xiao** and **Prof. Ziyuan Jiao**.
 
 I hold a B.Sc. from ShanghaiTech and a M.Sc. from University of Aizu under **Prof. Yong Liu**'s supervision, and previously spent two years at Shanghai Jiao Tong University's MVIG Group working with **Prof. Cewu Lu**.
 
