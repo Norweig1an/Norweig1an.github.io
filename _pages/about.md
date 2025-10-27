@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: ATL.jpg
+  image: musk.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Photo credit: Haoyang Wang, Atlanta.</p>
