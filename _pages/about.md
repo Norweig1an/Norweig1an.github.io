@@ -48,4 +48,3 @@ I hold a B.Sc. from ShanghaiTech and a M.Sc. from University of Aizu under **Pro
 
 I'm particularly interested in the intersection of robotics and AI, my research focuses on **dexterous manipulation**, **tactile sensing**, and **end-effector design** to enable robots to interact with the physical world with human-like precision and adaptability. My contributions have been recognized with **Best Paper Finalist** and **Best Paper on Human-Robot Interaction** of ICRA(IEEE International Conference on Robotics and Automation). 
 
-I welcome collaborations with researchers and industry partners passionate about dexterous manipulation and haptic systems, particularly those interested in transforming lab research into real-world applications through prototype development or industrial problem-solving - feel free to reach me! 
