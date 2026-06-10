@@ -2,7 +2,7 @@
 layout: about
 title: Shengcheng Luo 
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate | Robotics / Tactile Sensing / Dexterous Manipulation
 
 profile:
   align: right
@@ -42,9 +42,8 @@ latest_posts:
 }
 </script>
 
-I am an Ph.D. candidate at ShanghaiTech University SIST(School of Information Science and Technology) and the Beijing Institute for General Artificial Intelligence (BIGAI),  co-supervised by **Prof. Chenxi Xiao** and **Prof. Ziyuan Jiao**.
+I am a Ph.D. candidate at ShanghaiTech University SIST (School of Information Science and Technology) and the Beijing Institute for General Artificial Intelligence (BIGAI), co-supervised by **Prof. Chenxi Xiao** and **Prof. Ziyuan Jiao**.
 
 I hold a B.Sc. from ShanghaiTech and a M.Sc. from University of Aizu under **Prof. Yong Liu**'s supervision, and previously spent two years at Shanghai Jiao Tong University's MVIG Group working with **Prof. Cewu Lu**.
 
 I'm particularly interested in the intersection of robotics and AI, my research focuses on **dexterous manipulation**, **tactile sensing**, and **end-effector design** to enable robots to interact with the physical world with human-like precision and adaptability. My contributions have been recognized with **Best Paper Finalist** and **Best Paper on Human-Robot Interaction** of ICRA(IEEE International Conference on Robotics and Automation). 
-
