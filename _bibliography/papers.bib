@@ -1,6 +1,22 @@
 ---
 ---
 
+@misc{jiang2026caat,
+      title={CAAT: Contact-Aware Attention Scaling and Tactile Masking for Data-Efficient Contact-Rich Manipulation},
+      author={Jiaming Jiang* and Yuzhe Huang* and Hao Liang and Pei Lin and Shengcheng Luo and Fanrong Dong and Jiaping Wu and Chenxi Xiao† and Wanlin Li† and Ziyuan Jiao†},
+      year={2026},
+      eprint={2608.01102},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2608.01102},
+      bibtex_show={true},
+      preview={caat.png},
+      html={https://mrjiangjm.github.io/caat/},
+      code={https://github.com/mrJiangjm/caat-code},
+      abbr={arxiv},
+      abstract={In contact-rich manipulation, visual observations primarily guide motion in free space, whereas tactile observations become particularly informative during contact. However, standard Transformer-based visuo-tactile policies typically rely on either token concatenation or learnable gating. These approaches lack explicit contact-aware priors, making it difficult to efficiently learn effective cross-modal representations from demonstrations. To address this limitation, we propose CAAT, a lightweight contact-aware framework that explicitly incorporates contact priors through attention scaling and dynamic tactile masking. Specifically, CAAT emphasizes visual information before contact and tactile information during contact. It also suppresses static background tokens by comparing the current tactile observation with a non-contact reference. CAAT can be integrated into commonly used Transformer-based policies without modifying their action decoders. In simulation, integrating CAAT with ACT improves the average success rate by 18.0 percentage points over direct visuo-tactile fusion and by 10.0 percentage points over gated fusion. In real-world experiments using a visuo-tactile UMI platform, CAAT achieves an average success rate of 60.0\% across ACT, Diffusion Policy, and $\pi_0$, outperforming the strongest baseline by an average of 21.1 percentage points. These results demonstrate that explicit contact priors and dynamic tactile masking are effective in improving visuo-tactile policy learning and task performance of diverse policy architectures.},
+}
+
 @misc{chen2026dexmanihumanderivedmanipulabilityguidance,
       title={DexMani: Human-Derived Manipulability Guidance for Dexterous Rotation},
       author={Xiaoyang Chen* and Shengcheng Luo* and Haoran Guo and Jiaming Jiang and Wanlin Li and Ziyuan Jiao† and Chenxi Xiao†},
